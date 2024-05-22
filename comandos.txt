@@ -1,0 +1,38 @@
+cunado empecemos con nuestro proyecto
+_*_*_*_*_*
+git init.
+_*_*_*_*_*_
+creamos un repositorio con la palabra git init en la consola dentro de nuestro proyecto.
+_*_*_*_*_*_*_*_*_*_*_*_*_*
+git status o git status -s
+_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+para comprobar si estos archivos han sido tomado encuenta en el repositorio utilizamos el comando 
+git status -s. esto nos lista la cantidad de archivos o carpetas en el proyecto y si estan siendo seguidas o no por git
+para empezar a hacer un seguimiento de un archivo se utiliza el comando 
+_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
+git add y el nombre del archivo
+_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
+para hacer una copia del archivo se utiliza el comando
+_*_*_*_*_*_*_*_*__
+ git commit -m
+ _*_*_*_*_*_*_*_ 
+ se hace una refernecia o comentario al archivo en cuestion
+cada que se valla a realizar un cambio se debe agregar con el comando add y despues se realiza el commit
+para ver o saber cuantos commit hemos realizado utilizamos el comando
+_*_*_*_*_*_*_*_*_*_*
+ git log --oneline
+ _*_*_*_*_*_*_*_*_*_
+para restaurar el archivo al estado original o version anterior utilzamos el comando
+_*_*_*_*_*_*_*_*_*
+ git rest --hard
+ _**_*_*_*_*_*_*_*
+ con este comando los cambios no se pueden devolver lo que se deshace no se puede volver a recuperar
+ _*_*_*_*_*_*_*__
+ git add .
+ _*_*_*_*_*_*__
+ git add espacio punto para agregar toos los archivos del proyecto al repositorio
+ _*_*_*_*_*_*
+ git commit -am
+ _*_*_*_*_*_*_*
+ git commit espacio guion am y descripcion del comit para agregar archivos y comit
+  
