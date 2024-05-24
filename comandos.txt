@@ -35,4 +35,12 @@ _*_*_*_*_*_*_*_*_*
  git commit -am
  _*_*_*_*_*_*_*
  git commit espacio guion am y descripcion del comit para agregar archivos y comit
-  
+ _*_*_*_*_*_
+  git commit --amend
+  _*_*_*_*_*_*_*_*_*_*
+  git commit --amend para abrir la terminal vim
+  _*_*_*_*_*_*_*_*_*_____________________
+  _*_*_*_*_*_____________*******************
+  direccion que nos da github para subir el repositorio____________
+  git remote add origin https://github.com/rajiro/CursoGit.git
+  ____________********************_______________
