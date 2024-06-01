@@ -44,3 +44,6 @@ _*_*_*_*_*_*_*_*_*
   direccion que nos da github para subir el repositorio____________
   git remote add origin https://github.com/rajiro/CursoGit.git
   ____________********************_______________
+desde github se pueden hacer algunas modificaciones en el proyecto
+se va al archivo que se quiere modificar se le da al boton de editar que por lo general es el icono de un lapiz se modifica el archivo 
+y se le da en boton chages commit para guardar
